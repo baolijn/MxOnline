@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02879178-b003-4756-a5f7-27c131a55a0b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/courses/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/courses/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/courses/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/courses/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/courses/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/courses/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/courses/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operation/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operation/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operation/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operation/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operation/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operation/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operation/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/organization/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/organization/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/organization/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/organization/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/organization/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/organization/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/organization/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +54,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/users/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-230">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="265">
+              <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
               <folding>
                 <element signature="e#24#63#0" expanded="true" />
               </folding>
@@ -426,8 +433,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/users/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-230">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="265">
+          <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
           <folding>
             <element signature="e#24#63#0" expanded="true" />
           </folding>
